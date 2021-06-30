@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Daniel Corrêa!</strong>
+## 💜 Olá, meu nome é <strong>Daniel Euclides Corrêa!</strong>
 <br>
 
 > Entusiasta por tecnologia. Desenvolvedor Front-end por profissão e paixão.
