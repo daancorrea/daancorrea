@@ -1,7 +1,7 @@
 ## 💜 Olá, meu nome é <strong>Daniel Euclides Corrêa!</strong>
 <br>
 
-> Entusiasta por tecnologia. Desenvolvedor Front-end por profissão e paixão.
+> Entusiasta por tecnologia. Desenvolvedor Full Stack por profissão e paixão.
 
 Aqui é onde dedico horas e horas do meu dia-a-dia, transformando meus pensamentos e suas ideias em códigos!
 <br>
