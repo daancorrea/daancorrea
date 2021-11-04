@@ -18,7 +18,7 @@ Aqui é onde dedico horas e horas do meu dia-a-dia, transformando meus pensament
 <code><img height="32" src="https://dwglogo.com/wp-content/uploads/2017/09/1460px-React_logo.png" alt="ReactJs"/></code>
 <code><img height="32" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="NodeJs"/></code>
 <code><img height="32" src="https://dwglogo.com/wp-content/uploads/2017/09/1500px-Postgresql_logo.png" alt="PostgreSQL"/></code>
-<code><img height="32" src="https://symbols.getvecta.com/stencil_73/35_adonisjs-icon.f7379b6649.svg" alt="PostgreSQL"/></code>
+<code><img height="32" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL"/></code>
 
 
 <br>
