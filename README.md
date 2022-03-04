@@ -55,5 +55,5 @@ Aqui é onde dedico horas e horas do meu dia-a-dia, transformando meus pensament
 <br>
 
 <a href="https://www.instagram.com/edancorrea" alt="instagram" target="_blank"><img height="32" src="https://image.flaticon.com/icons/png/512/174/174855.png"></a>
-<a href="https://www.linkedin.com/in/daniel-correa-4924951b4/" alt="linkedin" target="_blank"><img height="32" src="https://image.flaticon.com/icons/png/512/3536/3536505.png"></a>
+<a href="https://www.linkedin.com/in/daniel-euclides-correa/" alt="linkedin" target="_blank"><img height="32" src="https://image.flaticon.com/icons/png/512/3536/3536505.png"></a>
 <a href="https://www.youtube.com/channel/UCytQZ58bYkpz6y9tL1zymPw" alt="youtube" target="_blank"><img height="32" src="https://image.flaticon.com/icons/png/512/3938/3938026.png"></a>
