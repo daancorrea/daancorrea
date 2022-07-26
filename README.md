@@ -3,7 +3,7 @@
 
 > Entusiasta por tecnologia. Desenvolvedor Full Stack por profissão e paixão.
 
-Aqui é onde dedico horas e horas do meu dia-a-dia, transformando meus pensamentos e suas ideias em códigos!
+Aqui é onde dedico horas e horas do meu dia-a-dia, transformando meus pensamentos e ideias em códigos!
 <br>
 <br>
 <br>
